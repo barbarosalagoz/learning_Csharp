@@ -1,0 +1,11 @@
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\bin\Debug\Odev_8.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\bin\Debug\Odev_8.exe
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\bin\Debug\Odev_8.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.exe
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Odev_8\Odev_8\obj\Debug\Odev_8.exe.config

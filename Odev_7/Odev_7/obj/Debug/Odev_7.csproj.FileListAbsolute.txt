@@ -1,0 +1,10 @@
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\bin\Debug\Odev_7.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\bin\Debug\Odev_7.exe
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\bin\Debug\Odev_7.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.exe
+C:\Users\alago\Desktop\Udemy Projeler\Odev_7\Odev_7\obj\Debug\Odev_7.pdb
