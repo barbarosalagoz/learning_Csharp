@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Odev_5
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string ad, soyad;
+            ad = textBox1.Text;
+            soyad = textBox2.Text;
+
+            label5.Text = ad + " " + soyad;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(label5.Text + " " + " Seçilen telefon: " + comboBox1.Text + " " + " Seçilen fiyat: " + comboBox2.Text);
+
+            MessageBox.Show("Kayıt başarılı!");
+        }
+    }
+}

@@ -1,0 +1,10 @@
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\bin\Debug\Odev_5.exe.config
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\bin\Debug\Odev_5.exe
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\bin\Debug\Odev_5.pdb
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.Form1.resources
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.Properties.Resources.resources
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.exe
+C:\Users\barba\Desktop\Udemy Projeler\Odev_5\Odev_5\obj\Debug\Odev_5.pdb
