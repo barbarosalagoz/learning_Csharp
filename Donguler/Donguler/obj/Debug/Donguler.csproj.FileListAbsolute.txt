@@ -1,0 +1,10 @@
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\alago\Desktop\Udemy Projeler\Donguler\Donguler\obj\Debug\Donguler.pdb
