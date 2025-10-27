@@ -1,0 +1,10 @@
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.exe
+C:\Users\alago\Desktop\Udemy Projeler\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.pdb
