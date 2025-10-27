@@ -1,0 +1,11 @@
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\bin\Debug\Timer_Zamanlayici.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\bin\Debug\Timer_Zamanlayici.exe
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\bin\Debug\Timer_Zamanlayici.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.exe
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Timer_Zamanlayici\Timer_Zamanlayici\obj\Debug\Timer_Zamanlayici.exe.config

@@ -1,0 +1,9 @@
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\bin\Debug\Timer_2.exe.config
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\bin\Debug\Timer_2.exe
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\bin\Debug\Timer_2.pdb
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.AssemblyReference.cache
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.Properties.Resources.resources
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.GenerateResource.cache
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.CoreCompileInputs.cache
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.exe
+C:\Users\alago\OneDrive\Desktop\Udemy Projeler\Timer_2\Timer_2\obj\Debug\Timer_2.pdb
