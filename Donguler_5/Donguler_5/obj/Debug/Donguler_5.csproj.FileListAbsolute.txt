@@ -1,0 +1,10 @@
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\bin\Debug\Donguler_5.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\bin\Debug\Donguler_5.exe
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\bin\Debug\Donguler_5.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.exe
+C:\Users\alago\Desktop\Udemy Projeler\Donguler_5\Donguler_5\obj\Debug\Donguler_5.pdb
