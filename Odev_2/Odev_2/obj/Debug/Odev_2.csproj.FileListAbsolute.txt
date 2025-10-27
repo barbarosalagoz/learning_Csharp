@@ -1,0 +1,11 @@
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\bin\Debug\Odev_2.exe.config
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\bin\Debug\Odev_2.exe
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\bin\Debug\Odev_2.pdb
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.Form1.resources
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.Properties.Resources.resources
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.exe
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.pdb
+C:\Users\barba\Desktop\Udemy Projeler\Odev_2\Odev_2\obj\Debug\Odev_2.exe.config
