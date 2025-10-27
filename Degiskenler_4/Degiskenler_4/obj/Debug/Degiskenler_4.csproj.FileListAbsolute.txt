@@ -1,0 +1,10 @@
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\bin\Debug\Degiskenler_4.exe.config
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\bin\Debug\Degiskenler_4.exe
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\bin\Debug\Degiskenler_4.pdb
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.Form1.resources
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.Properties.Resources.resources
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.exe
+C:\Users\barba\Desktop\Udemy Projeler\Degiskenler_4\Degiskenler_4\obj\Debug\Degiskenler_4.pdb
