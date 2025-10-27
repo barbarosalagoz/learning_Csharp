@@ -1,0 +1,10 @@
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\bin\Debug\Degisken_11.exe.config
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\bin\Debug\Degisken_11.exe
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\bin\Debug\Degisken_11.pdb
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.Form1.resources
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.Properties.Resources.resources
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.exe
+C:\Users\barba\Desktop\Udemy Projeler\Degisken_11\Degisken_11\obj\Debug\Degisken_11.pdb
