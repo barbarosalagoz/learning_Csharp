@@ -1,0 +1,10 @@
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\bin\Debug\Progress_Bar_Timer.exe.config
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\bin\Debug\Progress_Bar_Timer.exe
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\bin\Debug\Progress_Bar_Timer.pdb
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.csproj.AssemblyReference.cache
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.Form1.resources
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.Properties.Resources.resources
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.csproj.GenerateResource.cache
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.csproj.CoreCompileInputs.cache
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.exe
+C:\Users\alago\Desktop\Udemy Projeler\Progress_Bar_Timer\Progress_Bar_Timer\obj\Debug\Progress_Bar_Timer.pdb
