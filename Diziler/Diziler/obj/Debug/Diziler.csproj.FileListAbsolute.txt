@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Diziler\Diziler\bin\Debug\Diziler.exe.config
+D:\Udemy Projeler\Diziler\Diziler\bin\Debug\Diziler.exe
+D:\Udemy Projeler\Diziler\Diziler\bin\Debug\Diziler.pdb
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.exe
+D:\Udemy Projeler\Diziler\Diziler\obj\Debug\Diziler.pdb
