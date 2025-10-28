@@ -1,0 +1,10 @@
+D:\Udemy Projeler\For_Each\For_Each\bin\Debug\For_Each.exe.config
+D:\Udemy Projeler\For_Each\For_Each\bin\Debug\For_Each.exe
+D:\Udemy Projeler\For_Each\For_Each\bin\Debug\For_Each.pdb
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.csproj.AssemblyReference.cache
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.Form1.resources
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.Properties.Resources.resources
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.csproj.GenerateResource.cache
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.exe
+D:\Udemy Projeler\For_Each\For_Each\obj\Debug\For_Each.pdb
