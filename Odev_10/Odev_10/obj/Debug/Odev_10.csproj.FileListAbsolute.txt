@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Odev_10\Odev_10\bin\Debug\Odev_10.exe.config
+D:\Udemy Projeler\Odev_10\Odev_10\bin\Debug\Odev_10.exe
+D:\Udemy Projeler\Odev_10\Odev_10\bin\Debug\Odev_10.pdb
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.Form1.resources
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.Properties.Resources.resources
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.csproj.GenerateResource.cache
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.exe
+D:\Udemy Projeler\Odev_10\Odev_10\obj\Debug\Odev_10.pdb
