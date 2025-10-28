@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe.config
+D:\Udemy Projeler\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe
+D:\Udemy Projeler\Return_Metot\Return_Metot\bin\Debug\Return_Metot.pdb
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Form1.resources
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Properties.Resources.resources
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.GenerateResource.cache
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.exe
+D:\Udemy Projeler\Return_Metot\Return_Metot\obj\Debug\Return_Metot.pdb
