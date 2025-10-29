@@ -1,0 +1,11 @@
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\bin\Debug\Sınıf_Ornek.exe.config
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\bin\Debug\Sınıf_Ornek.exe
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\bin\Debug\Sınıf_Ornek.pdb
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.Form1.resources
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.Form2.resources
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.Properties.Resources.resources
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.csproj.GenerateResource.cache
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.exe
+D:\Udemy Projeler\Sınıf_Ornek\Sınıf_Ornek\obj\Debug\Sınıf_Ornek.pdb
