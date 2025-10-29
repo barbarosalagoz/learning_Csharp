@@ -1,0 +1,14 @@
+D:\Udemy Projeler\Odev_14\Odev_14\bin\Debug\net9.0\Odev_14.exe
+D:\Udemy Projeler\Odev_14\Odev_14\bin\Debug\net9.0\Odev_14.deps.json
+D:\Udemy Projeler\Odev_14\Odev_14\bin\Debug\net9.0\Odev_14.runtimeconfig.json
+D:\Udemy Projeler\Odev_14\Odev_14\bin\Debug\net9.0\Odev_14.dll
+D:\Udemy Projeler\Odev_14\Odev_14\bin\Debug\net9.0\Odev_14.pdb
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.AssemblyInfoInputs.cache
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.AssemblyInfo.cs
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.dll
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\refint\Odev_14.dll
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.pdb
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\Odev_14.genruntimeconfig.cache
+D:\Udemy Projeler\Odev_14\Odev_14\obj\Debug\net9.0\ref\Odev_14.dll
