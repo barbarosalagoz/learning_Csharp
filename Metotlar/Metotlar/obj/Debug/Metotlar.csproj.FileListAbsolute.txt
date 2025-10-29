@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+D:\Udemy Projeler\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+D:\Udemy Projeler\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+D:\Udemy Projeler\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
