@@ -1,0 +1,14 @@
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\bin\Debug\net9.0\Constructor_Yapısı.exe
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\bin\Debug\net9.0\Constructor_Yapısı.deps.json
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\bin\Debug\net9.0\Constructor_Yapısı.runtimeconfig.json
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\bin\Debug\net9.0\Constructor_Yapısı.dll
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\bin\Debug\net9.0\Constructor_Yapısı.pdb
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.AssemblyInfoInputs.cache
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.AssemblyInfo.cs
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.dll
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\refint\Constructor_Yapısı.dll
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.pdb
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\Constructor_Yapısı.genruntimeconfig.cache
+D:\Udemy Projeler\Constructor_Yapısı\Constructor_Yapısı\obj\Debug\net9.0\ref\Constructor_Yapısı.dll
