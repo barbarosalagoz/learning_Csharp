@@ -1,0 +1,14 @@
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\bin\Debug\net9.0\Ornek_Console.exe
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\bin\Debug\net9.0\Ornek_Console.deps.json
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\bin\Debug\net9.0\Ornek_Console.runtimeconfig.json
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\bin\Debug\net9.0\Ornek_Console.dll
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\bin\Debug\net9.0\Ornek_Console.pdb
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.AssemblyInfoInputs.cache
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.AssemblyInfo.cs
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.dll
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\refint\Ornek_Console.dll
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.pdb
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\Ornek_Console.genruntimeconfig.cache
+D:\Udemy Projeler\Ornek_Console\Ornek_Console\obj\Debug\net9.0\ref\Ornek_Console.dll
