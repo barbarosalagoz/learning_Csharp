@@ -482,6 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
 .vs/
 bin/
 obj/
@@ -489,3 +490,4 @@ packages/
 *.pdb
 *.log
 MenuStrip/bin/Debug/MenuStrip.exe.WebView2/
+
