@@ -80,13 +80,13 @@
             this.aksiyonToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.madMaxToolStripMenuItem});
             this.aksiyonToolStripMenuItem.Name = "aksiyonToolStripMenuItem";
-            this.aksiyonToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aksiyonToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.aksiyonToolStripMenuItem.Text = "Aksiyon";
             // 
             // madMaxToolStripMenuItem
             // 
             this.madMaxToolStripMenuItem.Name = "madMaxToolStripMenuItem";
-            this.madMaxToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.madMaxToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.madMaxToolStripMenuItem.Text = "Mad Max";
             this.madMaxToolStripMenuItem.Click += new System.EventHandler(this.madMaxToolStripMenuItem_Click);
             // 
@@ -96,7 +96,7 @@
             this.pSILoveYouToolStripMenuItem,
             this.aynıYıldızınAltındaToolStripMenuItem});
             this.romantikToolStripMenuItem.Name = "romantikToolStripMenuItem";
-            this.romantikToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.romantikToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.romantikToolStripMenuItem.Text = "Romantik";
             // 
             // pSILoveYouToolStripMenuItem
@@ -118,13 +118,13 @@
             this.korkuToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.korkuSeansıToolStripMenuItem});
             this.korkuToolStripMenuItem.Name = "korkuToolStripMenuItem";
-            this.korkuToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.korkuToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.korkuToolStripMenuItem.Text = "Korku";
             // 
             // korkuSeansıToolStripMenuItem
             // 
             this.korkuSeansıToolStripMenuItem.Name = "korkuSeansıToolStripMenuItem";
-            this.korkuSeansıToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.korkuSeansıToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
             this.korkuSeansıToolStripMenuItem.Text = "Korku Seansı";
             this.korkuSeansıToolStripMenuItem.Click += new System.EventHandler(this.korkuSeansıToolStripMenuItem_Click);
             // 
@@ -133,13 +133,13 @@
             this.bilimKurguToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.uzayYolcularıToolStripMenuItem});
             this.bilimKurguToolStripMenuItem.Name = "bilimKurguToolStripMenuItem";
-            this.bilimKurguToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.bilimKurguToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.bilimKurguToolStripMenuItem.Text = "Bilim Kurgu";
             // 
             // uzayYolcularıToolStripMenuItem
             // 
             this.uzayYolcularıToolStripMenuItem.Name = "uzayYolcularıToolStripMenuItem";
-            this.uzayYolcularıToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.uzayYolcularıToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
             this.uzayYolcularıToolStripMenuItem.Text = "Uzay Yolcuları";
             this.uzayYolcularıToolStripMenuItem.Click += new System.EventHandler(this.uzayYolcularıToolStripMenuItem_Click);
             // 
@@ -227,7 +227,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "c";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
