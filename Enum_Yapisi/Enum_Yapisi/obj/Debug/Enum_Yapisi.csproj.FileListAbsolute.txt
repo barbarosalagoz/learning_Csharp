@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe.config
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.pdb
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Form1.resources
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Properties.Resources.resources
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.GenerateResource.cache
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.exe
+D:\Udemy Projeler\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.pdb
