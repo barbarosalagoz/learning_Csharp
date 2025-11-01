@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\bin\Debug\Sayısal_Loto_Uygulaması.exe.config
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\bin\Debug\Sayısal_Loto_Uygulaması.exe
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\bin\Debug\Sayısal_Loto_Uygulaması.pdb
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.Form1.resources
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.Properties.Resources.resources
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.csproj.GenerateResource.cache
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.exe
+D:\Udemy Projeler\Sayısal_Loto_Uygulaması\Sayısal_Loto_Uygulaması\obj\Debug\Sayısal_Loto_Uygulaması.pdb
