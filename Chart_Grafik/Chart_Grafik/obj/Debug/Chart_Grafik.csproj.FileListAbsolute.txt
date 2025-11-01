@@ -1,0 +1,9 @@
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe.config
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.exe
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\bin\Debug\Chart_Grafik.pdb
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.Properties.Resources.resources
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.GenerateResource.cache
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.exe
+D:\Udemy Projeler\Chart_Grafik\Chart_Grafik\obj\Debug\Chart_Grafik.pdb

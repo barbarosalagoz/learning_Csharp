@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\bin\Debug\Captcha_Olusturma.exe.config
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\bin\Debug\Captcha_Olusturma.exe
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\bin\Debug\Captcha_Olusturma.pdb
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.Form1.resources
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.Properties.Resources.resources
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.csproj.GenerateResource.cache
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.exe
+D:\Udemy Projeler\Captcha_Olusturma\Captcha_Olusturma\obj\Debug\Captcha_Olusturma.pdb
