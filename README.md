@@ -1,213 +1,139 @@
-# 🖥️ Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti
+# 🖥️ C# Öğren — Uygulama Geliştirerek (A'dan Z'ye Eğitim Serisi)
 
-📚 **Eğitmen:** [Murat Yücedağ](https://www.youtube.com/c/MuratY%C3%BCceda%C4%9F)  
-👨‍💻 **Katılımcı:** Barbaros Emre Alagöz  
-📆 **Başlangıç Tarihi:** 15.10.2025  
-📆 **Bitiş Tarihi:** Devam Ediyor *(Güncellenecek)*  
-📍 **Son Durum:** N-Katmanlı Mimari & Entity Framework
+> **Eğitmen:** Murat Yücedağ  
+> **Katılımcı:** Barbaros Emre Alagöz  
+> **Başlangıç:** 15.10.2025  **Durum:** Devam Ediyor  
+> **Konu:** N-Katmanlı Mimari & Entity Framework  
 
 ---
 
-## 📌 Proje Hakkında
-
-Bu repository, *“Uygulama Geliştirerek C# Öğrenin: A’dan Z’ye Eğitim Seti”* kursunu takip ederek aktif şekilde geliştirdiğim öğrenme projesidir.  
-İçerik düzenli olarak güncellenmekte ve her bölümde yeni örnekler/projeler eklenmektedir.  
+## 📘 Proje Hakkında
+Bu repository, *“Uygulama Geliştirerek C# Öğrenin: A’dan Z’ye Eğitim Seti”* kursunu takip ederken geliştirdiğim aktif bir öğrenme projesidir.  
+Her bölümde yeni örnek projeler eklenmekte ve içerik düzenli olarak güncellenmektedir.  
 Amaç yalnızca teorik bilgi değil, **uygulayarak kalıcı öğrenme** sağlamaktır.
 
 ---
 
-## 📈 Eğitim Durumu
+## 📈 Eğitim İlerlemesi
+**Durum:** Devam Ediyor  
+**Kapsam:** Temel Programlama → İleri Seviye Web Geliştirme → N-Katmanlı Mimari & Entity Framework  
 
-✅ **Devam Ediyor**  
-💻 Konu Aralığı: Temel Programlama → İleri Seviye Web Geliştirme → N-Katmanlı Mimari & Entity Framework
-
----
-
-## 🧠 Tamamlanan Bölümler
-
-- Değişkenler *(String, Integer, Double, Char)*
-- Temel Araç Kullanımları
-- Karar Yapıları *(If - Else)*
-- Switch - Case Yapısı
-- Döngüler *(While, Do-While)*
-- Diziler & ForEach
-- Timer Uygulamaları
-- Progress Bar Kullanımı
-- Metotlar & Return Değerleri
-- Sınıf Yapıları & Temel OOP
-- Kalıtım *(Inheritance)*
-- Kapsülleme *(Encapsulation)*
-- Entity Framework Temelleri
-- N-Katmanlı Mimari
+### 🧠 Tamamlanan Bölümler
+- Değişkenler (String, Integer, Double, Char)  
+- Temel Araç Kullanımları  
+- Karar Yapıları (If – Else)  
+- Switch-Case Yapısı  
+- Döngüler (While, Do-While)  
+- Diziler & ForEach  
+- Timer Uygulamaları  
+- Progress Bar Kullanımı  
+- Metotlar & Return Değerleri  
+- Sınıf Yapıları & Temel OOP  
+- Kalıtım (Inheritance)  
+- Kapsülleme (Encapsulation)  
+- Entity Framework Temelleri  
+- N-Katmanlı Mimari  
 
 ---
 
 ## 🧭 Güncel İçerik Yapısı
 
-### 🗄️ Veritabanı & Mimari *(Yeni 🆕)*
+### 🗄️ Veritabanı & Mimari (Yeni 🆕)
 - Entity Framework uygulamaları  
-- N-Katmanlı mimari örnekleri  
+- N-katmanlı mimari örnekleri  
 - CRUD işlemleri  
-- Access veritabanı entegrasyonu
+- Access veritabanı entegrasyonu  
 
-### 🧬 OOP & İleri Seviye Konular
+### 🧬 OOP & İleri Konular
 - Sınıf yapısı ve örnekleri  
 - Kalıtım uygulamaları  
 - Kapsülleme örnekleri  
-- Constructor (Yapıcı) metotlar  
+- Constructor metotlar  
 - Enum yapıları  
-- Point yapısı kullanımı
+- Point yapısı kullanımı  
 
 ### 📁 Veri İşleme & Dosya Yönetimi
 - Metin belgesi oluşturma ve okuma  
 - PDF kaydetme işlemleri  
-- Dosya & klasör işlemleri  
-- Access veritabanı işlemleri
+- Dosya ve klasör işlemleri  
+- Access veritabanı işlemleri  
 
 ### 📊 Grafik & Görsel Uygulamalar
 - Chart grafikleri  
 - Dinamik araçlar  
 - Context MenuStrip  
-- MenuStrip uygulamaları
+- MenuStrip uygulamaları  
 
 ---
 
 ## 🏗️ Tamamlanan Projeler
 
-- 📚 Entity Framework Proje Uygulaması  
-- 🧭 N-Katmanlı Mimari Örnek Projesi  
-- 📖 Kitaplık Projesi *(Access Veritabanı ile)*  
-- 🏥 Hastane Projesi  
-- 👤 Personel Kayıt Sistemi  
-- 🔐 Captcha Oluşturma Uygulaması  
-- 🎲 Sayısal Loto Uygulaması  
-- 🍿 Sinema Büfe Satış Uygulaması
+| Proje | Açıklama |
+|--------|-----------|
+| 📚 Entity Framework Projesi | CRUD işlemleriyle veritabanı bağlantısı |
+| 🧭 N-Katmanlı Mimari | Katmanlı yapı ve soyutlama örneği |
+| 📖 Kitaplık Projesi | Access DB ile kitap yönetimi |
+| 🏥 Hastane Projesi | Personel ve hasta takip sistemi |
+| 👤 Personel Kayıt Sistemi | Temel veri giriş uygulaması |
+| 🔐 Captcha Oluşturma | Rastgele güvenlik kodu üretimi |
+| 🎲 Sayısal Loto Uygulaması | Rastgele sayı çekilişi |
+| 🍿 Sinema Büfe Satış Uygulaması | Satış ve stok takibi |
 
 ---
 
-## 🪙 Bonus Projeler
-
-- Mini CRUD Uygulamaları  
-- Gelişmiş Form Tasarımı  
-- Kullanıcı Etkileşimli Araçlar
+## 🪙 Ek Uygulamalar
+- Mini CRUD örnekleri  
+- Gelişmiş form tasarımları  
+- Kullanıcı etkileşimli araçlar  
 
 ---
 
 ## 📜 Lisans
-
-Bu proje **MIT Lisansı** altında lisanslanmıştır.  
-Detaylar için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
-
----
-
-## 📝 Son Güncelleme
-
-📅 18/10/2025
+Bu proje **MIT Lisansı** altındadır.  
+Detaylar için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
 ---
 
-# 🖥️ Learn C# by Building Applications: From A to Z
+# 🖥️ Learn C# by Building Applications (From A to Z)
 
-📚 **Instructor:** [Murat Yücedağ](https://www.youtube.com/c/MuratY%C3%BCceda%C4%9F)  
-👨‍💻 **Participant:** Barbaros Emre Alagöz  
-📆 **Start Date:** 15/10/2025  
-📆 **End Date:** In Progress *(To be updated)*  
-📍 **Current Status:** N-Tier Architecture & Entity Framework
+> **Instructor:** Murat Yücedağ  
+> **Participant:** Barbaros Emre Alagöz  
+> **Start Date:** 15 Oct 2025  **Status:** In Progress  
+> **Focus:** N-Tier Architecture & Entity Framework  
 
 ---
 
 ## 📌 About the Project
-
 This repository is an active learning project developed while following the *“Learn C# by Building Applications: From A to Z”* course.  
-The content is regularly updated with new examples and projects.  
-The main goal is not just theory but **learning through hands-on practice**.
-
----
-
-## 📈 Training Status
-
-✅ **In Progress**  
-💻 Topic Range: Basic Programming → Advanced Web Development → N-Tier Architecture & Entity Framework
+Each section includes practical exercises and real-world examples to ensure deep, applied understanding.
 
 ---
 
 ## 🧠 Completed Sections
-
-- Variables *(String, Integer, Double, Char)*
-- Basic Tool Usage
-- Decision Structures *(If - Else)*
-- Switch - Case Structure
-- Loops *(While, Do-While)*
-- Arrays & ForEach
-- Timer Applications
-- Progress Bar Usage
-- Methods & Return Values
-- Class Structures & Basic OOP
-- Inheritance
-- Encapsulation
-- Entity Framework Basics
-- N-Tier Architecture
+Variables • Control Structures • Loops • Arrays • Timers • Methods • OOP Basics • Inheritance • Encapsulation • Entity Framework Basics • N-Tier Architecture  
 
 ---
 
-## 🧭 Current Content Structure
-
-### 🗄️ Database & Architecture *(New 🆕)*
-- Entity Framework applications  
-- N-Tier architecture examples  
-- CRUD operations  
-- Access database integration
-
-### 🧬 OOP & Advanced Topics
-- Class structure and examples  
-- Inheritance applications  
-- Encapsulation examples  
-- Constructor methods  
-- Enum structures  
-- Point structure usage
-
-### 📁 Data Processing & File Management
-- Text file creation and reading  
-- PDF saving operations  
-- File and folder operations  
-- Access database operations
-
-### 📊 Graphics & UI Applications
-- Chart graphics  
-- Dynamic tools  
-- Context MenuStrip  
-- MenuStrip applications
+## 🧭 Current Content
+- Database & Architecture ( CRUD + EF )  
+- Advanced OOP and Constructors  
+- File and Folder Operations  
+- Chart Graphics and UI Applications  
 
 ---
 
 ## 🏗️ Completed Projects
-
-- 📚 Entity Framework Project Application  
-- 🧭 N-Tier Architecture Sample Project  
-- 📖 Library Project *(with Access DB)*  
-- 🏥 Hospital Project  
-- 👤 Personnel Record System  
+- 📚 Entity Framework CRUD App  
+- 🧭 N-Tier Architecture Sample  
+- 📖 Library Project (Access DB)  
+- 🏥 Hospital Management  
+- 👤 Personnel Registration  
 - 🔐 Captcha Generator  
 - 🎲 Lottery Application  
-- 🍿 Movie Buffet Sales Application
-
----
-
-## 🪙 Bonus Projects
-
-- Mini CRUD Applications  
-- Advanced Form Design  
-- User-Interactive Tools
+- 🍿 Movie Buffet Sales App  
 
 ---
 
 ## 📜 License
-
 This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details.
-
----
-
-## 📝 Last Update
-
-📅 18/10/2025
+See the [LICENSE](LICENSE) file for details.
