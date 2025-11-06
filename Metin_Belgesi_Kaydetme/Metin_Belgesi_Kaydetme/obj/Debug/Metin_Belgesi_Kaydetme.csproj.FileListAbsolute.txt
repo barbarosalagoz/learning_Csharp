@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\bin\Debug\Metin_Belgesi_Kaydetme.exe.config
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\bin\Debug\Metin_Belgesi_Kaydetme.exe
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\bin\Debug\Metin_Belgesi_Kaydetme.pdb
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.Form1.resources
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.Properties.Resources.resources
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.csproj.GenerateResource.cache
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.exe
+D:\Udemy Projeler\Metin_Belgesi_Kaydetme\Metin_Belgesi_Kaydetme\obj\Debug\Metin_Belgesi_Kaydetme.pdb
