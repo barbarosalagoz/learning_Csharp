@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Personel_Kayıt
+namespace Metin_Belgesi_Kayıt
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Personel_Kayıt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmGirisYap());
+            Application.Run(new Form1());
         }
     }
 }
