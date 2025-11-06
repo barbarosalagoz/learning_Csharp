@@ -1,0 +1,10 @@
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.exe.config
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.exe
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\bin\Debug\Metin_Belgesi.pdb
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csproj.AssemblyReference.cache
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.Form1.resources
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.Properties.Resources.resources
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csproj.GenerateResource.cache
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.csproj.CoreCompileInputs.cache
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.exe
+D:\Udemy Projeler\Metin_Belgesi\Metin_Belgesi\obj\Debug\Metin_Belgesi.pdb
