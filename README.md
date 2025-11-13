@@ -1,139 +1,162 @@
-# 🖥️ C# Öğren — Uygulama Geliştirerek (A'dan Z'ye Eğitim Serisi)
+# C# Öğrenme ve Alıştırma Deposu
 
-> **Eğitmen:** Murat Yücedağ  
-> **Katılımcı:** Barbaros Emre Alagöz  
-> **Başlangıç:** 15.10.2025  **Durum:** Devam Ediyor  
-> **Konu:** N-Katmanlı Mimari & Entity Framework  
+Bu repository, C# öğrenme sürecinde oluşturulmuş örnek uygulamalar, alıştırmalar ve WinForms projelerini içerir. Temelden başlayarak C#’ın temel kavramlarını, kontrol yapıları, döngüler, metotlar, OOP temelleri ve WinForms araçlarını uygulayarak öğrenmeyi hedefler.
 
----
-
-## 📘 Proje Hakkında
-Bu repository, *“Uygulama Geliştirerek C# Öğrenin: A’dan Z’ye Eğitim Seti”* kursunu takip ederken geliştirdiğim aktif bir öğrenme projesidir.  
-Her bölümde yeni örnek projeler eklenmekte ve içerik düzenli olarak güncellenmektedir.  
-Amaç yalnızca teorik bilgi değil, **uygulayarak kalıcı öğrenme** sağlamaktır.
+> **Not:** Bu repository’de yalnızca temel C# ve WinForms konuları işlenmektedir.
+> Entity Framework ve N-Katmanlı Mimari bu repository kapsamında değildir.
 
 ---
 
-## 📈 Eğitim İlerlemesi
-**Durum:** Devam Ediyor  
-**Kapsam:** Temel Programlama → İleri Seviye Web Geliştirme → N-Katmanlı Mimari & Entity Framework  
-
-### 🧠 Tamamlanan Bölümler
-- Değişkenler (String, Integer, Double, Char)  
-- Temel Araç Kullanımları  
-- Karar Yapıları (If – Else)  
-- Switch-Case Yapısı  
-- Döngüler (While, Do-While)  
-- Diziler & ForEach  
-- Timer Uygulamaları  
-- Progress Bar Kullanımı  
-- Metotlar & Return Değerleri  
-- Sınıf Yapıları & Temel OOP  
-- Kalıtım (Inheritance)  
-- Kapsülleme (Encapsulation)  
-- Entity Framework Temelleri  
-- N-Katmanlı Mimari  
+## 📚 İçindekiler
+* [Genel Bakış](#-genel-bakış)
+* [Kapsam ve İçerik](#-kapsam-ve-içerik)
+    * [Temel C# Konuları](#-temel-c-konuları)
+    * [WinForms ve Arayüz Uygulamaları](#-winforms-ve-arayüz-uygulamaları)
+* [Örnek Projeler](#-örnek-projeler)
+* [Klasör Yapısı](#-klasör-yapısı)
+* [Öğrenme Hedefleri](#-öğrenme-hedefleri)
+* [Gelecek Adımlar](#-gelecek-adımlar)
+* [Lisans](#-lisans)
+* [English Version](#-english-version)
 
 ---
 
-## 🧭 Güncel İçerik Yapısı
+## 🚀 Genel Bakış
+Bu proje, C# öğrenme sürecini uygulama temelli şekilde ilerletmek amacıyla hazırlanmıştır. Her konu için çalışan küçük örnek projeler ve uygulamalar geliştirilmiştir.
 
-### 🗄️ Veritabanı & Mimari (Yeni 🆕)
-- Entity Framework uygulamaları  
-- N-katmanlı mimari örnekleri  
-- CRUD işlemleri  
-- Access veritabanı entegrasyonu  
+## 📖 Kapsam ve İçerik
 
-### 🧬 OOP & İleri Konular
-- Sınıf yapısı ve örnekleri  
-- Kalıtım uygulamaları  
-- Kapsülleme örnekleri  
-- Constructor metotlar  
-- Enum yapıları  
-- Point yapısı kullanımı  
+### 🔧 Temel C# Konuları
+* Değişkenler
+* Karar yapıları
+* Döngüler
+* Diziler ve `foreach`
+* Metotlar
+* Sınıf yapıları
+* OOP temel prensipleri
+* Constructor kullanımı
+* Kapsülleme
+* Enum
+* Point yapısı
 
-### 📁 Veri İşleme & Dosya Yönetimi
-- Metin belgesi oluşturma ve okuma  
-- PDF kaydetme işlemleri  
-- Dosya ve klasör işlemleri  
-- Access veritabanı işlemleri  
+### 🖥️ WinForms ve Arayüz Uygulamaları
+* Formlar arası geçiş
+* Formlar arası veri taşıma
+* Timer uygulamaları
+* ProgressBar
+* Chart grafik örnekleri
+* MenuStrip ve ContextMenuStrip
+* Dinamik kontroller
+* Random sınıfı
+* Dosya ve klasör işlemleri
+* Metin belgesi (oluşturma / okuma / yazma)
+* Temel PDF oluşturma
 
-### 📊 Grafik & Görsel Uygulamalar
-- Chart grafikleri  
-- Dinamik araçlar  
-- Context MenuStrip  
-- MenuStrip uygulamaları  
+## 🛠️ Örnek Projeler
+* Captcha oluşturma uygulaması
+* Sayısal loto uygulaması
+* Sinema büfe satış uygulaması
+* Personel kayıt sistemi
+* Bilgi yarışması
+* Metin belgesi uygulamaları
+* Grafik çizim uygulamaları
+* Timer ve ProgressBar örnekleri
+* `Arac_Kullanimlari` serisi
+* Temel konulara ait diziler (Degiskenler, Donguler, Diziler)
+* `Odev_1` – `Odev_14`
 
----
+## 📁 Klasör Yapısı
+```bash
+learning_Csharp/
+├── Degiskenler_1 – Degiskenler_13
+├── Donguler, Donguler_2 ... Donguler_6
+├── Diziler, Diziler_2
+├── Arac_Kullanimlari (1–4)
+├── Karar_Yapilari
+├── Metin_Belgesi
+├── Progress_Bar
+├── Timer_Zamanlayici
+├── Personel_Kayıt
+├── Sayısal_Loto_Uygulaması
+├── Captcha_Olusturma
+├── Chart_Grafik
+├── Enum_Yapisi
+├── Odev_1 – Odev_14
+└── README.md
+🎯 Öğrenme Hedefleri
+C# temellerini sağlamlaştırmak
 
-## 🏗️ Tamamlanan Projeler
+WinForms bileşenlerini aktif şekilde kullanabilmek
 
-| Proje | Açıklama |
-|--------|-----------|
-| 📚 Entity Framework Projesi | CRUD işlemleriyle veritabanı bağlantısı |
-| 🧭 N-Katmanlı Mimari | Katmanlı yapı ve soyutlama örneği |
-| 📖 Kitaplık Projesi | Access DB ile kitap yönetimi |
-| 🏥 Hastane Projesi | Personel ve hasta takip sistemi |
-| 👤 Personel Kayıt Sistemi | Temel veri giriş uygulaması |
-| 🔐 Captcha Oluşturma | Rastgele güvenlik kodu üretimi |
-| 🎲 Sayısal Loto Uygulaması | Rastgele sayı çekilişi |
-| 🍿 Sinema Büfe Satış Uygulaması | Satış ve stok takibi |
+Her konu için çalışan örneklerle pratik yapmak
 
----
+Junior .NET Developer seviyesine uygun altyapıyı oluşturmak
 
-## 🪙 Ek Uygulamalar
-- Mini CRUD örnekleri  
-- Gelişmiş form tasarımları  
-- Kullanıcı etkileşimli araçlar  
+➡️ Gelecek Adımlar
+Bu repository sonrası öğrenme süreci ayrı bir projede devam edecektir:
 
----
+ASP.NET Core 9
 
-## 📜 Lisans
-Bu proje **MIT Lisansı** altındadır.  
-Detaylar için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
+MVC & Razor
 
----
+Web API
 
-# 🖥️ Learn C# by Building Applications (From A to Z)
+Entity Framework Core
 
-> **Instructor:** Murat Yücedağ  
-> **Participant:** Barbaros Emre Alagöz  
-> **Start Date:** 15 Oct 2025  **Status:** In Progress  
-> **Focus:** N-Tier Architecture & Entity Framework  
+N-Katmanlı Mimari
 
----
+SQL Server
 
-## 📌 About the Project
-This repository is an active learning project developed while following the *“Learn C# by Building Applications: From A to Z”* course.  
-Each section includes practical exercises and real-world examples to ensure deep, applied understanding.
+📜 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
----
+🇬🇧 English Version
+learning_Csharp — C# Learning & Practice Repository
+This repository includes basic C# exercises, WinForms applications, and topic-based samples created during the learning process.
 
-## 🧠 Completed Sections
-Variables • Control Structures • Loops • Arrays • Timers • Methods • OOP Basics • Inheritance • Encapsulation • Entity Framework Basics • N-Tier Architecture  
+Note: Entity Framework and N-Tier Architecture are not part of this repository.
 
----
+C# Fundamentals
+Variables
 
-## 🧭 Current Content
-- Database & Architecture ( CRUD + EF )  
-- Advanced OOP and Constructors  
-- File and Folder Operations  
-- Chart Graphics and UI Applications  
+Conditions
 
----
+Loops
 
-## 🏗️ Completed Projects
-- 📚 Entity Framework CRUD App  
-- 🧭 N-Tier Architecture Sample  
-- 📖 Library Project (Access DB)  
-- 🏥 Hospital Management  
-- 👤 Personnel Registration  
-- 🔐 Captcha Generator  
-- 🎲 Lottery Application  
-- 🍿 Movie Buffet Sales App  
+Arrays
 
----
+Methods
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+Classes and OOP basics
+
+Constructors
+
+Encapsulation
+
+Enums
+
+Point structure
+
+WinForms Applications
+Navigation between forms
+
+Passing data between forms
+
+Timer examples
+
+ProgressBar
+
+Chart graphics
+
+MenuStrip and ContextMenuStrip
+
+Dynamic controls
+
+File operations
+
+Text file processing
+
+Basic PDF generation
+
+License
+This project is licensed under the MIT License.
