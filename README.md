@@ -73,8 +73,6 @@ Bu proje, C# öğrenme sürecini uygulama temelli şekilde ilerletmek amacıyla 
 
 ## Klasör Yapısı
 
-## Klasör Yapısı
-
 ```text
 learning_Csharp/
 ├── Arac_Kullanimlari
