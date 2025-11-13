@@ -73,6 +73,9 @@ Bu proje, C# öğrenme sürecini uygulama temelli şekilde ilerletmek amacıyla 
 
 ## Klasör Yapısı
 
+## Klasör Yapısı
+
+```text
 learning_Csharp/
 ├── Arac_Kullanimlari
 ├── Arac_Kullanimlari_2
@@ -154,6 +157,7 @@ learning_Csharp/
 ├── Timer_Zamanlayici
 ├── README.md
 └── LICENSE
+```
 
 ---
 
