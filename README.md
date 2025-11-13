@@ -74,21 +74,86 @@ Bu proje, C# öğrenme sürecini uygulama temelli şekilde ilerletmek amacıyla 
 ## Klasör Yapısı
 
 learning_Csharp/
-├── Degiskenler_1 – Degiskenler_13
-├── Donguler, Donguler_2 ... Donguler_6
-├── Diziler, Diziler_2
-├── Arac_Kullanimlari (1–4)
-├── Karar_Yapilari
-├── Metin_Belgesi
-├── Progress_Bar
-├── Timer_Zamanlayici
-├── Personel_Kayıt
-├── Sayısal_Loto_Uygulaması
+├── Arac_Kullanimlari
+├── Arac_Kullanimlari_2
+├── Arac_Kullanimlari_3
+├── Arac_Kullanimlari_4
+├── Bilgi_Yarismasi
 ├── Captcha_Olusturma
 ├── Chart_Grafik
+├── Constructor_Yapilar_2
+├── Constructor_Yapisi
+├── Degiskenler_1
+├── Degiskenler_2
+├── Degiskenler_3
+├── Degiskenler_4
+├── Degiskenler_5
+├── Degiskenler_6
+├── Degiskenler_7
+├── Degiskenler_8
+├── Degiskenler_9
+├── Degiskenler_10
+├── Degiskenler_11
+├── Degiskenler_12
+├── Degiskenler_13
+├── Degiskenler_Project
+├── Degiskenler_Project_Sinema_Bufe_Satis_Uygulamasi
+├── Dinamik_Araclar
+├── Diziler
+├── Diziler_2
+├── Donguler
+├── Donguler_2
+├── Donguler_3
+├── Donguler_4
+├── Donguler_5
+├── Donguler_6
+├── Dosya_Klasor
 ├── Enum_Yapisi
-├── Odev_1 – Odev_14
-└── README.md
+├── Extra_Araclar
+├── For_Each
+├── Formlar_Arasi_Gecis
+├── Formlar_Arasi_Veri_Tasima
+├── Karar_Yapilari
+├── Karar_Yapilari_Egzersiz
+├── Karar_Yapilari_Pratik
+├── Matematik_Fonksiyonlari
+├── MenuStrip
+├── Metin_Belgesi
+├── Metin_Belgesi_Kaydetme
+├── Metin_Belgesi_Kayit
+├── Metotlar
+├── Metotlar_2
+├── Odev_1
+├── Odev_2
+├── Odev_3
+├── Odev_4
+├── Odev_5
+├── Odev_6
+├── Odev_7
+├── Odev_8
+├── Odev_9
+├── Odev_10
+├── Odev_11
+├── Odev_12
+├── Odev_13
+├── Odev_14
+├── Ornek_Console
+├── Ornek_Proje_1
+├── Ornek_Proje_2
+├── PDF
+├── Personel_Kayit
+├── Point_Yapisi
+├── Progress_Bar
+├── Progress_Bar_Timer
+├── Random_Class
+├── Return_Metot
+├── Sayisal_Loto_Uygulamasi
+├── Switch_Case
+├── Sinif_Ornek
+├── Timer_2
+├── Timer_Zamanlayici
+├── README.md
+└── LICENSE
 
 ---
 
